@@ -220,4 +220,4 @@ __marimo__/
 # Fichiers de configuration spécifiques au mock
 actuai_mock_data/Dockerfile
 actuai_mock_data/pyproject.toml
-actuai_mock_data/README.md
+actuai_mock_data/README.md.DS_Store
